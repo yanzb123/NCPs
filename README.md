@@ -10,7 +10,7 @@ This repository contains a collection of Nonlinear Complementarity Problems (NCP
 ## Description
 **Example Structure:**
 ```matlab
-% Define the NCP problem
+% Define the NCP problem 'quarp'
 Test = 'quarp';
 
 % Initial values for NCP Problem 'quarp'
